@@ -1,0 +1,5 @@
+C:\Users\RODRIGO\Documents\Visual Studio 2019\Projects\Dominios Ricos\PaymentContext.Shared\bin\Debug\PaymentContext.Shared.dll
+C:\Users\RODRIGO\Documents\Visual Studio 2019\Projects\Dominios Ricos\PaymentContext.Shared\bin\Debug\PaymentContext.Shared.pdb
+C:\Users\RODRIGO\Documents\Visual Studio 2019\Projects\Dominios Ricos\PaymentContext.Shared\obj\Debug\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\RODRIGO\Documents\Visual Studio 2019\Projects\Dominios Ricos\PaymentContext.Shared\obj\Debug\PaymentContext.Shared.dll
+C:\Users\RODRIGO\Documents\Visual Studio 2019\Projects\Dominios Ricos\PaymentContext.Shared\obj\Debug\PaymentContext.Shared.pdb
