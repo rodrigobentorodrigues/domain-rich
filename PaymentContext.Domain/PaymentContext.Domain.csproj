@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\BoletoPayment.cs" />
+    <Compile Include="Entities\CreditCardPayment.cs" />
     <Compile Include="Entities\Payment.cs" />
+    <Compile Include="Entities\PayPalPayment.cs" />
     <Compile Include="Entities\Student.cs" />
     <Compile Include="Entities\Subscription.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
