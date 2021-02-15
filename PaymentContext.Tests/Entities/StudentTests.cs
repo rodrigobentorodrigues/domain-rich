@@ -10,8 +10,8 @@ namespace PaymentContext.Tests.Entities
         [TestMethod]
         public void TestMethod1()
         {
-            var student = new Student(new Name("Rodrigo", "Bento"), new Document("12345678912", Domain.Enums.EDocumentType.CPF), 
-                "rodrigo@gmail.com");
+            //var student = new Student(new Name("Rodrigo", "Bento"), new Document("12345678912", Domain.Enums.EDocumentType.CPF), 
+            //    "rodrigo@gmail.com");
         }
 
     }

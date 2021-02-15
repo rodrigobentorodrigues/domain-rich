@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VUf3wd3kzEDCoszIYOq1TdZKFI51W7PEZK3VZCpT1Sj8b8XlH2UKX3mjSKTKXo1+oxi759pnmsio8K9QMzQacA==",
+  "dgSpecHash": "zRxDB30oVf4y7kykRFUK8yhtVX6dS997vj4pg6vDaUialbSHb+m+vYq7BcAfVcMt7JbJp3mOc2EdnZ81bIQrOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\RODRIGO\\Documents\\Visual Studio 2019\\Projects\\Dominios Ricos\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RODRIGO\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\RODRIGO\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\RODRIGO\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
