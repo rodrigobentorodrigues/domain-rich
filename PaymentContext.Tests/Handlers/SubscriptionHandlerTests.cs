@@ -18,7 +18,7 @@ namespace PaymentContext.Tests.Handlers
             command.BarCode = "123123123";
             command.FirstName = "Rock";
             command.LastName = "Lee";
-            command.Document = "123123123123";
+            command.Document = "12312312312";
             command.Email = "leerock@gmail.com";
             command.BoletoNumber = "123456789";
             command.PaymentNumber = "0";
@@ -27,7 +27,7 @@ namespace PaymentContext.Tests.Handlers
             command.Total = 60;
             command.TotalPaid = 60;
             command.Payer = "Might Guy";
-            command.PayerDocument = "123456789";
+            command.PayerDocument = "12312312312";
             command.PayerDocumentType = EDocumentType.CPF;
             command.PayerEmail = "leerock@gmail.com";
             command.Street = "adsad";
