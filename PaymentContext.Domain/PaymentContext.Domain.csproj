@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\CreateBoletoSubscriptionCommand.cs" />
+    <Compile Include="Commands\CreateCreditCardSubscriptionCommand.cs" />
+    <Compile Include="Commands\CreatePayPalSubscriptionCommand.cs" />
     <Compile Include="Entities\BoletoPayment.cs" />
     <Compile Include="Entities\CreditCardPayment.cs" />
     <Compile Include="Entities\Payment.cs" />
