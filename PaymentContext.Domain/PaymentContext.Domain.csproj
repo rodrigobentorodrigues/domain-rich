@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\CommandResult.cs" />
     <Compile Include="Commands\CreateBoletoSubscriptionCommand.cs" />
     <Compile Include="Commands\CreateCreditCardSubscriptionCommand.cs" />
     <Compile Include="Commands\CreatePayPalSubscriptionCommand.cs" />
@@ -54,7 +55,9 @@
     <Compile Include="Entities\Student.cs" />
     <Compile Include="Entities\Subscription.cs" />
     <Compile Include="Enums\EDocumentType.cs" />
+    <Compile Include="Handlers\SubscriptionHandler.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\IStudentRepository.cs" />
     <Compile Include="ValueObjects\Address.cs" />
     <Compile Include="ValueObjects\Document.cs" />
     <Compile Include="ValueObjects\Email.cs" />

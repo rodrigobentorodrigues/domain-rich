@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Domain", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Shared", "..\PaymentContext.Shared\PaymentContext.Shared.csproj", "{F3C59DBD-0618-4F6A-9332-1209512C4692}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentContext.Tests", "..\PaymentContext.Tests\PaymentContext.Tests.csproj", "{BDB98343-CBE1-4770-8379-4617DA604DB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentContext.Tests", "..\PaymentContext.Tests\PaymentContext.Tests.csproj", "{BDB98343-CBE1-4770-8379-4617DA604DB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
