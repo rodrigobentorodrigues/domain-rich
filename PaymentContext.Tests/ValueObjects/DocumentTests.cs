@@ -1,12 +1,14 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PaymentContext.Domain.Entities;
+using PaymentContext.Domain.Enums;
 using PaymentContext.Domain.ValueObjects;
 
-namespace PaymentContext.Tests.Entities
+namespace PaymentContext.Tests.ValueObjects
 {
     [TestClass]
-    class StudentTests
+    public class DocumentTests
     {
+
         
+
     }
 }
