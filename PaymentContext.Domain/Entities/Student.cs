@@ -34,8 +34,12 @@ namespace PaymentContext.Domain.Entities
                     hasSubscriptionActive = true;
             }
 
+            var hasPayments = subscription.Payments.Count > 0 ? true : false;
             if (hasSubscriptionActive)
                 AddNotification("Student.Subscriptions", "Você já tem uma assinatura válida");
+
+            if (!hasPayments)
+                AddNotification("Student.Subcription.Payments", "Essa assinatura não possui pagamentos");
 
             _subscriptions.Add(subscription);
         }
